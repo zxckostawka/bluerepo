@@ -1,3 +1,22 @@
+Package: com.BIENVANNHAT.a-font
+Version: 1.10
+Architecture: iphoneos-arm
+Maintainer: BVN
+Installed-Size: 2380
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.BIENVANNHAT.a-font_1.10_iphoneos-arm.deb
+Size: 839784
+MD5sum: 61811d1db37dc8a86f6e6d338cbd9193
+SHA1: 95e3e28fa3a17835844a78ecdef49f58bfd709f6
+SHA256: 99608cd53c512faa61f531d915082140f8debdf9434f3e590e006b6e22d7f003
+Section: Tweaks
+Description: Thay đổi phông chữ của bạn!
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://bvnsupport.github.io/depictions/A-Font.html
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: A-Font VH
+Sileodepiction: https://bvnsupport.github.io/sileodepictions/A-Font.json
+
 Package: com.ali.aim
 Version: 1.3.1
 Architecture: iphoneos-arm64
@@ -114,6 +133,44 @@ Section: Tweaks
 Description: iPhone X gestures brought to older iPhones compatible with iOS 15
 Author: Ethan Whited
 Name: GesturesXV
+
+Package: com.repobvn.a-font-rootless
+Version: 1.10
+Architecture: iphoneos-arm64
+Maintainer: Biện Văn Nhật
+Installed-Size: 2444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.repobvn.a-font-rootless_1.10_iphoneos-arm64.deb
+Size: 838860
+MD5sum: aa20d430f3a91ed25d7bf5a87d74e53b
+SHA1: 9cbd3a82ce7f83578d1b448209e678bd537445c9
+SHA256: f1578f08c0659e743de1e104447060ceefc43b52478a9193b1796c8c7a2747db
+Section: Tweaks
+Description: Thay đổi phông chữ của bạn!
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://bvnsupport.github.io/depictions/A-Font.html
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: A-Font VH(Rootless)
+Sileodepiction: https://bvnsupport.github.io/sileodepictions/A-Font.json
+
+Package: com.spark.snowboard
+Version: 1.5.26-Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 3236
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/1.5.26-Beta4-rootless.deb
+Size: 1120268
+MD5sum: 9109ec3d0b2bca55154f15610c8b61ba
+SHA1: 1548df152c15da2d898f19e618fb6af4bdee5d85
+SHA256: 2857efc003bf3c2def3119ea1b45f25b86eb57c8bf6f3b8d12c822e976608a51
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard
 
 Package: us.diatr.appsyncunified
 Version: 32.0-6
