@@ -15,6 +15,90 @@ Description: iOS 16 Style Time & Date Lockscreen
 Author: alimaulana
 Name: AIM
 
+Package: com.bvn.cc26
+Version: 0.4.9.10
+Architecture: iphoneos-arm64
+Maintainer: therealhoodboy
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.bvn.cc26_0.4.9.10_iphoneos-arm64.deb
+Size: 31500
+MD5sum: 901079acbfe879007f4a0ad0055cf4f2
+SHA1: 033a3f9f465d2e0b6e95903ba0cd360ff0034d2d
+SHA256: 42775204f54c7a53da644a586d36fe30e201f25522435110d3ca23cd8f586746
+Section: Tweaks
+Description: A sleek reimagination of Control Center
+Author: therealhoodboy
+Depiction: http://bvnsupport.github.io/infodeb/Html/CC26.html
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Name: CC26 (Rootless)
+Sileodepiction: https://bvnsupport.github.io/sileodepictions/CC26.json
+
+Package: com.bvn.cc26
+Version: 0.4.9.10
+Architecture: iphoneos-arm
+Maintainer: therealhoodboy
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.bvn.cc26_0.4.9.10_iphoneos-arm.deb
+Size: 31360
+MD5sum: 3c4d6db931a793cab0d37a51d455c5df
+SHA1: 640903152c2a1c048820179df80c67fbeb00b83c
+SHA256: 94d69133a7669e02d15160ad2926804cd9c8fc562a011d107f26fdab95f2dec2
+Section: Tweaks
+Description: A sleek reimagination of Control Center
+Author: therealhoodboy
+Depiction: http://bvnsupport.github.io/infodeb/Html/CC26.html
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: CC26 VH
+Sileodepiction: https://bvnsupport.github.io/sileodepictions/CC26.json
+
+Package: com.bvn.cc26.rl
+Version: 0.4.9.10
+Architecture: iphoneos-arm64
+Maintainer: therealhoodboy
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.bvn.cc26.rl_0.4.9.10_iphoneos-arm64.deb
+Size: 18056
+MD5sum: 2006e953f6e5531b20ff83ab1d3f1ae3
+SHA1: c5520930ce4e25dc0c88f7587c8959700dba48e4
+SHA256: 8abef1fd3bda9745afcf54d8262420fd92089f88e9e2051e5abb69d9aa8e40e5
+Section: Tweaks
+Description: A sleek reimagination of Control Center
+Author: therealhoodboy
+Depiction: http://bvnrepo999.github.io/infodeb/Html/CC26.html
+Icon: https://bvnrepo.xyz/icon/tinhchinh.png
+Name: CC26 (Rootless)
+Sileodepiction: https://bvnrepo999.github.io/sileodepictions/CC26.json
+
+Package: com.bvn.cc26.rl
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: therealhoodboy
+Installed-Size: 1496
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.bvn.cc26.rl_1.0.6_iphoneos-arm64.deb
+Size: 835980
+MD5sum: 4e9e654c7a88454a07b8179fc95e4983
+SHA1: 3d319acab83d7cda11164c704e5d44d73ab1e33d
+SHA256: b9a2314d4db9ee49b32541e2acc2044a47828b4c41a420d391bb21763eb407c3
+Section: Tweaks
+Description: A sleek reimagination of Control Center.
+Author: therealhoodboy
+Depiction: http://bvnrepo999.github.io/infodeb/Html/CC26.html
+Icon: https://bvnrepo.xyz/icon/tinhchinh.png
+Name: CC26 VH (Rootless)
+Sileodepiction: https://bvnrepo999.github.io/sileodepictions/CC26.json
+
 Package: com.nahtedetihw.gesturesxv
 Version: 1.6
 Architecture: iphoneos-arm64
