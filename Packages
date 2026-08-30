@@ -166,6 +166,42 @@ Dev: cannathea
 Name: Apple File Conduit "2" (iOS 11+, arm64)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.dvntm.ovk
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 28656
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.ovk_1.2_iphoneos-arm64.deb
+Size: 10269210
+MD5sum: c9ee236c71e02cb92d906150a42a026a
+SHA1: b84045899a35f9a8ef70fa55f9208a69290188f6
+SHA256: 519bc3a0a117d004858d3bc12d86662ff217a6ff6048130cae60872f04e08691
+Section: Tweaks
+Description: A subtle shift from the familiar
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png
+Name: OrwellVK
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/OrwellVK/main/Sileo/depiction.json
+
+Package: com.dvntm.ovk
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 28656
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.ovk_1.2_iphoneos-arm64e.deb
+Size: 10259520
+MD5sum: c3246fbd5003498189f3f9ef985d3f4d
+SHA1: e10e9481e42b4778ddf36a4f649e042e2f70d980
+SHA256: 6a33dae7ada265c72b3af00172294ffcfd7d4a876b9b0d7c0e15c6a2b3711f81
+Section: Tweaks
+Description: A subtle shift from the familiar
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png
+Name: OrwellVK
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/OrwellVK/main/Sileo/depiction.json
+
 Package: com.lumid.opaboutphone
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -233,6 +269,21 @@ Description: An intuitive way to unlock your device
 Author: MTAC <mtac@mtac.app>
 Name: FingerLock
 
+Package: com.nahtedetihw.closeall
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ethan Whited
+Installed-Size: 208
+Filename: ./debs/com.nahtedetihw.closeall_1.0_iphoneos-arm.deb
+Size: 21670
+MD5sum: 5a7729dd87d638fc3fe03f9ec4376c88
+SHA1: 0116c3e672a852b98aa8131c553b61af1232ffe5
+SHA256: ef97d1507493e4d2f453cd4048dd442c6c36c4f9ca29dd029b41a93debb5f69a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Ethan Whited
+Name: CloseAll
+
 Package: com.nahtedetihw.gesturesxv
 Version: 1.6
 Architecture: iphoneos-arm64
@@ -248,6 +299,21 @@ Section: Tweaks
 Description: iPhone X gestures brought to older iPhones compatible with iOS 15
 Author: Ethan Whited
 Name: GesturesXV
+
+Package: com.opa334.trollstorehelper
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 4400
+Filename: ./debs/com.opa334.trollstorehelper_2.1_iphoneos-arm (1).deb
+Size: 1919648
+MD5sum: ca213f963a5a097da923e339c1bdbdd8
+SHA1: e3ccfe4b9fd82b2e36c8fc60a50e5aebe04f17eb
+SHA256: 446cb7c61b2e46d92cce9c26b2bff509e7d95df200370fa51fd2a6d098602eec
+Section: Applications
+Description: Helper utility to install and manage TrollStore!
+Author: opa334
+Name: TrollStore Helper
 
 Package: com.opa334.trollstorelite
 Version: 2.1.1
@@ -324,6 +390,25 @@ Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard
+
+Package: com.teslaman3092.popoutbuttons
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/com.teslaman3092.popoutbuttons_1.0.2_iphoneos-arm.deb
+Size: 56438
+MD5sum: 0cd8aefa2c1b228df005063df6d08f40
+SHA1: ff7ac3a330fd84646c2eae8983fb091df284b5c3
+SHA256: 2789cf0b15872752eb38419990b6f977d54ca26f116615d37c210e4cf4357a0d
+Section: Tweaks
+Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
+Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Depiction: https://chariz.com/get/popoutbuttons
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Name: PopOutButtons
 
 Package: us.diatr.appsyncunified
 Version: 32.0-6
