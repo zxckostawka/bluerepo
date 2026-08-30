@@ -166,6 +166,73 @@ Dev: cannathea
 Name: Apple File Conduit "2" (iOS 11+, arm64)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.lumid.opaboutphone
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Lumid
+Installed-Size: 556
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.lumid.opaboutphone_1.2.0_iphoneos-arm64.deb
+Size: 124880
+MD5sum: fe680a9c86edcb5028dc173e972584b7
+SHA1: efc651196b2390f020d635d4028011e84de19e32
+SHA256: 27aa948e4bfedbf1673a2dd855ee61e6abb0c7eac749caa1bec2587899557025
+Section: Tweaks
+Description: OxygenOS/ColorOS-style About page for the iOS Settings app.
+Author: Lumid
+Icon: file:///var/jb/Library/PreferenceBundles/OPAboutPhonePrefs.bundle/icon-large.png
+Name: OP About Phone
+
+Package: com.lumid.opaboutphone
+Version: 1.5.0
+Architecture: iphoneos-arm64e
+Maintainer: Lumid
+Installed-Size: 524
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.lumid.opaboutphone_1.5.0_roothide_iphoneos-arm64e.deb
+Size: 123116
+MD5sum: f7362c2b003b5226bdb320e854ec9688
+SHA1: c60f220ade3773a25fd57076f21f8e2fd3f0efa4
+SHA256: 187be90ff1c41167d0bfb73c86cb9bf36bab43951382b01cb9a9765c44afeb9c
+Section: Tweaks
+Description: OxygenOS/ColorOS-style About page for the iOS Settings app.
+Author: Lumid
+Icon: file:///var/jb/Library/PreferenceBundles/OPAboutPhonePrefs.bundle/icon-large.png
+Name: OP About Phone
+
+Package: com.lumid.opaboutphone
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: Lumid
+Installed-Size: 524
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.lumid.opaboutphone_1.5.0_iphoneos-arm64.deb
+Size: 123008
+MD5sum: 9e724c5e7936e9b57447c08cc8064de4
+SHA1: 081ffc21f69b0dddd60b5617f72559905154326e
+SHA256: e0101ace42e0f23060144277630f352b6f2af0f7b201488b6bbfd026515775fb
+Section: Tweaks
+Description: OxygenOS/ColorOS-style About page for the iOS Settings app.
+Author: Lumid
+Icon: file:///var/jb/Library/PreferenceBundles/OPAboutPhonePrefs.bundle/icon-large.png
+Name: OP About Phone
+
+Package: com.mtac.fingerlock
+Version: 3.0.2
+Architecture: iphoneos-arm64
+Maintainer: MTAC <mtac@mtac.app>
+Installed-Size: 936
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.mtac.fingerlock_3.0.2_iphoneos-arm64.deb
+Size: 163440
+MD5sum: 0eb521a1a29ba083a0c1fc2338877023
+SHA1: 0fbcb328c731c016f4e3b29ef9f07591294507ab
+SHA256: 5c86c6f57d1b62050cb716d9323a0ef051470183a7e84131665cd1f52f7740d3
+Section: Tweaks
+Description: An intuitive way to unlock your device
+Author: MTAC <mtac@mtac.app>
+Name: FingerLock
+
 Package: com.nahtedetihw.gesturesxv
 Version: 1.6
 Architecture: iphoneos-arm64
