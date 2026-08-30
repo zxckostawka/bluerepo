@@ -1,9 +1,9 @@
 Origin: zxckostawka
-Label: zxckostyawka repo (s ego twikami i ne tolka)
+Label: BlueRepo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Репозиторий твиков от Кости
+Description: Персональный репозиторий твиков
 Icon: SileoIcon.png
