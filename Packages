@@ -364,28 +364,3 @@ Icon: https://skitty.xyz/repo/icons/xyz.skitty.ersatz.png
 Name: Ersatz
 Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/sileo.json
 
-Package: com.bvn.homescreen18
-Name: HomeScreen18
-Version: 1.0
-Architecture: iphoneos-arme
-Description: Твик HomeScreen18
-Maintainer: zxckostawka
-Author: Developer
-Section: Tweaks
-Filename: https://github.com/zxckostawka/bluerepo/releases/download/Big_Tweaks/com.evgeniy.homescreen18_1.0_roothide_iphoneos-arm64e.deb
-Size: 1234567
-MD5sum: 4a8f9c1d0b2e3f4a5b6c7d8e9f0a1b2c
-SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-
-Package: com.bvn.homescreen18
-Name: HomeScreen18
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Твик HomeScreen18
-Maintainer: zxckostawka
-Author: Developer
-Section: Tweaks
-Filename: https://github.com/zxckostawka/bluerepo/releases/download/Big_Tweaks/com.evgeniy.homescreen18_1.0_iphoneos-arm64.deb
-Size: 1234567
-MD5sum: 4a8f9c1d0b2e3f4a5b6c7d8e9f0a1b2c
-SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
