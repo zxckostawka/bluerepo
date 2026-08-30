@@ -1,0 +1,32 @@
+name: Build iOS Repo
+
+on:
+  push:
+    paths:
+      - 'debs/**'
+      - 'Release'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install APT tools
+        run: sudo apt-get update && sudo apt-get install -y dpkg-dev bzip2 xz-utils
+
+      - name: Generate Packages
+        run: |
+          dpkg-scanpackages -m ./debs > Packages
+          bzip2 -k -f Packages
+          xz -k -f Packages
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-build Packages index"
+          file_pattern: Packages Packages.bz2 Packages.xz
