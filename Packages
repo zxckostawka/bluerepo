@@ -1,0 +1,88 @@
+Package: com.ali.aim
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: alimaulana
+Installed-Size: 4968
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.icraze.nexus
+Filename: ./debs/com.ali.aim_1.3.1_iphoneos-arm64.deb
+Size: 2303764
+MD5sum: 3f98ad81784b594fb9adac154ca8b50c
+SHA1: 526d234f9df1ccd3730a1726e57e9e472fc5ede2
+SHA256: 52e9866775393877964fbace451d3f8dfa2908f11c1d9711f29b18cdda740d6d
+Section: Tweaks
+Description: iOS 16 Style Time & Date Lockscreen
+Author: alimaulana
+Name: AIM
+
+Package: com.nahtedetihw.gesturesxv
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 2756
+Depends: mobilesubstrate
+Filename: ./debs/com.nahtedetihw.gesturesxv_1.6_iphoneos-arm64.deb
+Size: 2162250
+MD5sum: bb3616e0fe4ee30c20101d4adabbd8e1
+SHA1: 3bc01f69ed79827cc99d353078bac52ea065c9f8
+SHA256: 5e34b44fdfaa94be436d68cd96f90935b0bc665db7cc832a1b791193ef2b1c03
+Section: Tweaks
+Description: iPhone X gestures brought to older iPhones compatible with iOS 15
+Author: Ethan Whited
+Name: GesturesXV
+
+Package: us.diatr.appsyncunified
+Version: 32.0-6
+Architecture: appletvos-arm64
+Maintainer: Diatrus
+Installed-Size: 80
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 10.0), mobilesubstrate
+Provides: appsync
+Filename: ./debs/us.diatr.appsyncunified_32.0-6_appletvos-arm64.deb
+Size: 13156
+MD5sum: 5ef4e50a261e44b5cc25b86432a25109
+SHA1: e6811e2bdbb4830f921d4a93ae791b978b921148
+SHA256: 74b24750f801f413769326dae0b6442a85b8b6d0c5f02a4c7c1d3cdd928147fa
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Diatrus
+Name: AppSync Unified
+
+Package: us.diatr.appsyncunified
+Version: 77.0
+Architecture: appletvos-arm64
+Maintainer: Diatrus
+Installed-Size: 80
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 10.0), mobilesubstrate
+Provides: appsync
+Filename: ./debs/us.diatr.appsyncunified_77.0_appletvos-arm64.deb
+Size: 12316
+MD5sum: f56ecda03e6112085f968513aa6e0cae
+SHA1: 2e9114e82f933fae52195f1ccfe89c2bea0ba9df
+SHA256: a4f472676ba9713681e84dc670d521685530ed8aa92f3edc13230ebd33d33315
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Diatrus
+Name: AppSync Unified
+
+Package: xyz.skitty.ersatz
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 504
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/xyz.skitty.ersatz_1.0.1_iphoneos-arm64.deb
+Size: 48998
+MD5sum: a548cfa559e1bb3e8b2e5302f42de761
+SHA1: 3cb5d518df674ca62de15ed31f47b768c7b83bd5
+SHA256: ee2f1e4dd5afa99458fc5f7063bef437987906b48750a34162442fa05fcb3837
+Section: Tweaks
+Description: Replace any text, system-wide!
+Author: Skitty
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.ersatz.png
+Name: Ersatz
+Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/sileo.json
+
