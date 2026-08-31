@@ -264,21 +264,6 @@ Description: iPhone X gestures brought to older iPhones compatible with iOS 15
 Author: Ethan Whited
 Name: GesturesXV
 
-Package: com.opa334.trollstorehelper
-Version: 2.1
-Architecture: iphoneos-arm
-Maintainer: opa334
-Installed-Size: 4400
-Filename: ./debs/com.opa334.trollstorehelper_2.1_iphoneos-arm (1).deb
-Size: 1919648
-MD5sum: ca213f963a5a097da923e339c1bdbdd8
-SHA1: e3ccfe4b9fd82b2e36c8fc60a50e5aebe04f17eb
-SHA256: 446cb7c61b2e46d92cce9c26b2bff509e7d95df200370fa51fd2a6d098602eec
-Section: Applications
-Description: Helper utility to install and manage TrollStore!
-Author: opa334
-Name: TrollStore Helper
-
 Package: com.opa334.trollstorelite
 Version: 2.1.1
 Architecture: iphoneos-arm64
